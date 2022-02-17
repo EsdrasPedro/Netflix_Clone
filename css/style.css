@@ -1,0 +1,71 @@
+.bg-net{
+    background-color: #141414;
+    color: #fff;
+}
+
+.des{
+    color: #dadada;
+}
+
+.act{
+    color: #fff;
+}
+
+.netf{
+    color:red
+}
+.fw-esp{
+font-weight:600;
+}
+
+.ml-x{
+    margin-left: 11rem;
+}
+
+.filme{
+    background-position: center center;
+    width: 100%;
+}
+.ajut2{
+    top: 0px;
+    background-image: linear-gradient(to bottom,rgba(0,0,0,.7) 10%,rgba(0,0,0,0));
+}
+.ajut{
+    height: 70px;
+}
+
+.main-position{
+    padding-top: 0;
+    margin-top: -70px;
+}
+
+.title {
+    min-height: 13.2vw;
+    position: relative;
+    margin-bottom: 1.2vw;
+}
+
+.logo{
+    width: 100%;
+}
+
+.info {
+    position: absolute;
+    top: 19%;
+    left: 4%;
+    width: 36%;
+}
+.text-ajut{
+    color: #fff;
+    line-height: normal;
+    font-size: 1.4vw;
+    margin-bottom: .5vw;
+}
+
+.buts{
+    margin-right: .5vw;
+    margin-top: 1vw;
+    font-weight: 600;
+}
+
+
